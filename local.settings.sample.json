@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "",
+      "FUNCTIONS_WORKER_RUNTIME": "python",
+      "TWILIO_ACCOUNT_SID":"",
+      "TWILIO_AUTH_TOKEN":"",
+      "NASA_API_KEY":"",
+      "MY_TWILIO_NUMBER":"",
+      "RECEIVER_NUMBER":""
+    }
+  }
