@@ -7,11 +7,11 @@ This repo contains a sample application, written is various programming language
 Read through the blog post highlighted above to get a full understanding of how the app is put together. 
 
 ## What do you need?
-- [Visual Studio Code](https://code.visualstudio.com/)
-- The [Python extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-cephilli)
+- The [Python extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python&WT.mc_id=academic-0000-cephilli)
 - [Python 3.7 or above](https://www.python.org/downloads/)
 - An API key for the [NASA APIS](https://api.nasa.gov/)
-- The [Azure Functions Core Tools](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=linux%2Ccsharp%2Cbash#install-the-azure-functions-core-tools)
+- The [Azure Functions Core Tools](https://docs.microsoft.com/azure/azure-functions/functions-run-local?tabs=linux,csharp,bash&WT.mc_id=academic-0000-cephilli#install-the-azure-functions-core-tools)
 
 ## Contribute
 Pull requests are always welcome 😎. Feel free to fix any mistakes you come across. We also welcome to addition of other language implementations.
