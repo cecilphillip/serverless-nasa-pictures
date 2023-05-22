@@ -7,7 +7,7 @@ idna==2.9
 pycodestyle==2.5.0
 PyJWT==2.4.0
 pytz==2019.3
-requests==2.23.0
+requests==2.31.0
 six==1.14.0
 twilio==6.35.5
 urllib3==1.25.8
